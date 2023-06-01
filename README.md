@@ -27,7 +27,7 @@ wordslen+=len(words)
 print("Number of wordds:",wordslen)
 ```
 ### OUTPUT:
-![Screenshot 2023-05-29 142057](https://github.com/vasundrasriravi/Word-count/assets/119393983/05fd0a0d-d73a-48a5-afda-2b91de3e42d1)
+![Screenshot 2023-06-01 114324](https://github.com/vasundrasriravi/Word-count/assets/119393983/08062f57-c033-4a5f-bec0-adf42b7e7a99)
 
 
 
